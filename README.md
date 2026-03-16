@@ -37,13 +37,13 @@ Este tipo de herramienta puede ser útil para:
 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/file-extension-searcher.git
+git clone https://github.com/tuusuario/files_finder.git
 ```
 
 2. Entrar en el directorio del proyecto
 
 ```bash
-cd file-extension-searcher
+cd files_finder
 ```
 
 3. Ejecutar el script
